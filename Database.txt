@@ -1,0 +1,18 @@
+###   Descrizione Database ###
+
+Database MySQL
+
+Ospitato su piattaforma Google Cloud Platform
+
+Dati di accesso:
+
+host: 
+35.246.217.24
+
+user:
+root
+
+password:
+szrNkzyqy1-Password	szrNkzyqy1-Password
+
+###   Descrizione Database   ###
