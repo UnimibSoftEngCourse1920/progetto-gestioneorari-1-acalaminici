@@ -1,0 +1,18 @@
+C:\Users\KIM TOO FLEX\source\repos\contacts_crud_demo\contacts_crud_demo\bin\Debug\contacts_crud_demo.exe.config
+C:\Users\KIM TOO FLEX\source\repos\contacts_crud_demo\contacts_crud_demo\bin\Debug\contacts_crud_demo.exe
+C:\Users\KIM TOO FLEX\source\repos\contacts_crud_demo\contacts_crud_demo\bin\Debug\contacts_crud_demo.pdb
+C:\Users\KIM TOO FLEX\source\repos\contacts_crud_demo\contacts_crud_demo\bin\Debug\TooSharp.Core.dll
+C:\Users\KIM TOO FLEX\source\repos\contacts_crud_demo\contacts_crud_demo\bin\Debug\MySql.Data.dll
+C:\Users\KIM TOO FLEX\source\repos\contacts_crud_demo\contacts_crud_demo\bin\Debug\Humanizer.dll
+C:\Users\KIM TOO FLEX\source\repos\contacts_crud_demo\contacts_crud_demo\bin\Debug\TooSharp.Core.xml
+C:\Users\KIM TOO FLEX\source\repos\contacts_crud_demo\contacts_crud_demo\obj\Debug\contacts_crud_demo.csprojResolveAssemblyReference.cache
+C:\Users\KIM TOO FLEX\source\repos\contacts_crud_demo\contacts_crud_demo\obj\Debug\contacts_crud_demo.frmAddEditContact.resources
+C:\Users\KIM TOO FLEX\source\repos\contacts_crud_demo\contacts_crud_demo\obj\Debug\contacts_crud_demo.frmContactList.resources
+C:\Users\KIM TOO FLEX\source\repos\contacts_crud_demo\contacts_crud_demo\obj\Debug\contacts_crud_demo.Properties.Resources.resources
+C:\Users\KIM TOO FLEX\source\repos\contacts_crud_demo\contacts_crud_demo\obj\Debug\contacts_crud_demo.csproj.GenerateResource.Cache
+C:\Users\KIM TOO FLEX\source\repos\contacts_crud_demo\contacts_crud_demo\obj\Debug\contacts_crud_demo.csproj.CoreCompileInputs.cache
+C:\Users\KIM TOO FLEX\source\repos\contacts_crud_demo\contacts_crud_demo\obj\Debug\contacts_crud_demo.exe
+C:\Users\KIM TOO FLEX\source\repos\contacts_crud_demo\contacts_crud_demo\obj\Debug\contacts_crud_demo.pdb
+C:\Users\a.calaminici\source\repos\contacts_crud_demo\contacts_crud_demo\obj\Debug\contacts_crud_demo.csprojAssemblyReference.cache
+C:\Users\a.calaminici\source\repos\contacts_crud_demo\contacts_crud_demo\obj\Debug\contacts_crud_demo.exe
+C:\Users\a.calaminici\source\repos\contacts_crud_demo\contacts_crud_demo\obj\Debug\contacts_crud_demo.pdb

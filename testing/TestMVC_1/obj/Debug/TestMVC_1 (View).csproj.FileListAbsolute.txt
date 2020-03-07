@@ -1,0 +1,8 @@
+C:\Users\a.calaminici\source\repos\TestMVC_1\bin\Debug\TestMVC_1.exe.config
+C:\Users\a.calaminici\source\repos\TestMVC_1\bin\Debug\TestMVC_1.exe
+C:\Users\a.calaminici\source\repos\TestMVC_1\bin\Debug\TestMVC_1.pdb
+C:\Users\a.calaminici\source\repos\TestMVC_1\obj\Debug\TestMVC_1 (View).csprojAssemblyReference.cache
+C:\Users\a.calaminici\source\repos\TestMVC_1\obj\Debug\TestMVC_1.Properties.Resources.resources
+C:\Users\a.calaminici\source\repos\TestMVC_1\obj\Debug\TestMVC_1 (View).csproj.GenerateResource.cache
+C:\Users\a.calaminici\source\repos\TestMVC_1\obj\Debug\TestMVC_1.exe
+C:\Users\a.calaminici\source\repos\TestMVC_1\obj\Debug\TestMVC_1.pdb
